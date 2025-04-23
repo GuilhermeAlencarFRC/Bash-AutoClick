@@ -1,4 +1,6 @@
-     sleep 0.5 
+#!/bin/bash
+     
+     sleep 0.5  # tempo do click
     
    while true
   do
