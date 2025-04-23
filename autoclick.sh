@@ -1,0 +1,9 @@
+     sleep 0.5 
+    
+   while true
+  do
+
+    xdotool click 1
+
+    sleep 1
+   done
